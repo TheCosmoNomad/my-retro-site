@@ -16,7 +16,7 @@ function App() {
           textShadow: '3px 3px #00FFFF',
           fontFamily: '"Comic Sans MS", "Chalkboard SE", sans-serif'
         }}>
-          ~*~ Welcome to Anubhav's Realm ~*~
+          ~*~ Welcome to TheCosmoNomad's Realm ~*~
         </h1>
         <Marquee text="+++ WELCOME TO MY HOME PAGE +++ DON'T FORGET TO SIGN THE GUESTBOOK +++ BEST VIEWED WITH NETSCAPE NAVIGATOR 4.0 +++" />
       </header>
