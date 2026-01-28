@@ -1,3 +1,3 @@
 # My Retro Website
 
-~ Under Construction ~
+~ UNDER CONSTRUCTION ~

@@ -1,4 +1,4 @@
-const Construction = () => {
+const ConstructionBanner = () => {
   return (
     <div style={{ 
       width: '100%', 
@@ -17,4 +17,4 @@ const Construction = () => {
   );
 };
 
-export default Construction;
+export default ConstructionBanner;
